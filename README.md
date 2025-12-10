@@ -14,7 +14,7 @@ It showcases my skills, education / experience, and works as a full-stack web ap
 ## 🧩 Features / What’s Included  
 - Authentication: register / login / logout.  
 - After Logging in, (you need to register with the proper format first) 
-- You will now see the Resume.
+- You will now see the Portfolio.
 - A “Resume / About Me” page (or a general portfolio/home page).  
 - Clean folder structure: resources/views, routes, controllers.  
 
